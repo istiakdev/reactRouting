@@ -59,6 +59,19 @@ export const Footer = () => {
             <h4 className="font-nunito text-[20px] font-semibold text-gray pb-[200px] hover:text-komla duration-500 cursor-pointer">Contact Us</h4>
           </div>
         </Flex>
+        <Flex className={"justify-between mt-[-100px] pb-[57px]"}>
+          <div className="font-nunito text-[18px] text-gray">
+            <h3>@20201 Innovate.All rights reserved.</h3>
+          </div>
+          <div className="flex gap-30">
+            <div className="font-nunito text-[18px] text-gray">
+              <h3>Privacy policy</h3>
+            </div>
+            <div className="font-nunito text-[18px] text-gray">
+              <h3>Terms & condition</h3>
+            </div>
+          </div>
+        </Flex>
       </Container>
     </article>
   );

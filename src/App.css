@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-komla: #FF7628;
+  --color-kalo: #192239;
+  --color-gray: #6C7D93;
+  --font-openSans: "Open Sans", sans-serif;
+  --font-paprika:  "Paprika", system-ui;
+  --font-nunito:  "Nunito", sans-serif;
+
+
+}

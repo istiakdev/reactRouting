@@ -7,7 +7,7 @@ import blank from "/src/assets/blank.png";
 export const About = () => {
   return (
     
-    <article className="bg-gradient-to-b from-white from-[30%] to-[#f2f2f2] min-h-screen">
+    <article className="bg-gradient-to-b from-white from-[30%] to-[#f2f2f2] ">
      <div>
        <Container>
         <Flex className={""}>

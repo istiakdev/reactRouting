@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 export const Footer = () => {
   return (
-    <article className="bg-[#E8E6E3]">
+    <article className="bg-[linear-gradient(90deg,rgba(242,238,230,1)_19%,rgba(255,255,255,1)_50%,rgba(255,255,255,1)_98%)]">
       <Container>
         <Flex className={"justify-between items-center pt-[140px] pb-[57px]"}>
           <div className="pb-[280px]">
